@@ -49,7 +49,8 @@
 ### 🎥 DevOps in Action
 
 <p align="center">
-  <img src="![giphy](https://github.com/user-attachments/assets/8fe87bc4-d38f-4bac-a92c-f5a89fb3ea45)" alt="DevOps Workflow" width="400px">
+  <img src="![giphy](https://github.com/user-attachments/assets/3bbeae97-4560-482a-b27d-ce1c3351e247)"
+alt="DevOps Workflow" width="400px">
 </p>
 
 
