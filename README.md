@@ -39,19 +39,9 @@
 
 ---
 
-## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragav-29&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragav-29&layout=compact&theme=radical" width="40%">
-</p>
-
 ### 🎥 DevOps in Action
 
-<p align="center">
-  <img src="![giphy](https://github.com/user-attachments/assets/3bbeae97-4560-482a-b27d-ce1c3351e247)"
-alt="DevOps Workflow" width="400px">
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ragav-29/ragav-29/main/assets/devops.gif" width="400" alt="DevOps Workflow" /> </p>
 
 
 ---
