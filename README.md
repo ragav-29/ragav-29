@@ -41,7 +41,7 @@
 
 ### 🎥 DevOps in Action
 
-<p align="center"> <img src="https://raw.githubusercontent.com/ragav-29/ragav-29/main/assets/devops.gif" width="400" alt="DevOps Workflow" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ragav-29/ragav-29/main/devops.gif" width="400" alt="DevOps Workflow" /> </p>
 
 
 ---
